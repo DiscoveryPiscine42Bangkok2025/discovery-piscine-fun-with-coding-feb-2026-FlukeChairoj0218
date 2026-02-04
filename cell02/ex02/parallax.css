@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+}
+    .parallax p{
+        color: black;
+        font-size: 20px;
+    }
+.parallax-1 {
+    background-image: url('https://cdn-images.dzcdn.net/images/cover/f978cbc632fcec6eaf4428ca62b25c2a/0x1900-000000-80-0-0.jpg');
+}
+.parallax-2 {
+    background-image: url('https://cdn.essential-japan.com/wp-content/uploads/2025/10/The-Fragrant-Flower-Blooms-With-Dignity-Pop-Up-Shop.webp');
+}
+.content {
+    padding: 100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+}

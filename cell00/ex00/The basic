@@ -1,0 +1,8 @@
+user0218@ubs0218 :~ $ cd~
+user0218@ubs0218:^$ mkdir discovery_piscine
+user0218@ubs0218 :~ $ cd discovery_piscine
+user0218@ubs0218:^/discovery_piscine$ mkdir cel100
+user0218@ubs0218:^/discovery_piscine$ cd cel100/
+user0218@ubs0218 :~ /discovery_piscine/cel100$ mkdir ex00
+user0218@ubs0218 :~ /discovery_piscine/cel100$ cd ex00/
+user0218@ubs0218:^/discovery_piscine/cel100/ex00$
