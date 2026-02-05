@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    padding: 14px 12px;
+    font-size: 15px;
+    background-color: silver;
+    color:gold;
+    border: none;
+    border-radius: 5px;
+}
